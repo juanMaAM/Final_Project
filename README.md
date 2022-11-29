@@ -5,16 +5,33 @@ desarrollar un programa que almacene los dato del usuario y que realize un resum
 
 ## Etapa 2. Especificaciones
 Entrada:
-
+-inicio de sesion: nombre de usuario, contraseña
+-Usuario: nombre, edad, CURP, dirección, genero, estatura, telefono, sueldo, estudios
 Proceso:
-
+-Leer los datos
+-Almacenar los datos
 Salida:
-
+-Imprimir resumen de datos
 
 ~~~
++---------------------------------------------------------------------+
+| Proyecto Final - Menu principal                                     | 
++---------------------------------------------------------------------+
+|     ELIJA LA OPCIÓN QUE NECESITA UTILIZAR:                          |
+| 1.- Captura de datos                                                |
+| 2.- Consultar los datos                                             |
+| 3.- Finalizar                                                       |
+| 4.-                                                                 |
+|     INGRESE UNA OPCIÓN (1-4)                                        |
++---------------------------------------------------------------------+
 
 ~~~
 ## Etapa 3. Diseño de la solución
 Diagrama de la clase
 ![]()
 ## Etapa 4. Desarrollo de la solución
+
+Proyecto creado por:
+Juan Manuel
+Asahin
+Arturo
