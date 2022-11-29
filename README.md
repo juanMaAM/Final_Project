@@ -18,10 +18,11 @@ Salida:
 | Proyecto Final - Menu principal                                     | 
 +---------------------------------------------------------------------+
 |     ELIJA LA OPCIÓN QUE NECESITA UTILIZAR:                          |
-| 1.- Captura de datos                                                |
-| 2.- Consultar los datos                                             |
-| 3.- Finalizar                                                       |
-| 4.-                                                                 |
+| 1.- Inicio de sesión                                                |
+| 2.- Captura de datos                                                |
+| 3.- Consultar los datos                                             |
+| 4.- Finalizar                                                       |
+|                                                                     |
 |     INGRESE UNA OPCIÓN (1-4)                                        |
 +---------------------------------------------------------------------+
 
