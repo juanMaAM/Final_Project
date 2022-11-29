@@ -1,7 +1,7 @@
 # T5 Final_Project
 
 ## Etapa 1. descripción del problema 
-desarrollar un programa que almacene los dato del usuario y que realize un resumen de estos.
+desarrollar un programa que almacene los datos del usuario y que realize un resumen de estos.
 
 ## Etapa 2. Especificaciones
 Entrada:
@@ -28,7 +28,7 @@ Salida:
 ~~~
 ## Etapa 3. Diseño de la solución
 Diagrama de la clase
-![]()
+![](https://github.com/juanMaAM/Final_Project/blob/main/T5-FinalProject.png)
 ## Etapa 4. Desarrollo de la solución
 
 Proyecto creado por:
